@@ -1,1 +1,1 @@
-# Projecte-LMSGI-02-Lunar-Landing-Versi-n-con-JavaScript-
+# Projecte-LMSGI-02-Lunar-Landing-JavaScript-
