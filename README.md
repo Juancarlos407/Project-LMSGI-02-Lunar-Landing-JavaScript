@@ -1,24 +1,21 @@
 # Projecte-LMSGI-02-Lunar-Landing-JavaScript-
 ## Proyecto final Lunar Landing que incluye JavaScript
 
+Este proyecto es la cúlmine de nuestro Lunar Landing, en mi caso he usado una paleta de colores relacionadas con Star Wars, colores cálidos para los indicadores y llamativos para el menú, compuesto por tres botones y el sprite "?", un guiño a Super Mario que nos traslada a la página de ayuda, mientras que el boton de About, previa confirmación, nos lleva a una pantalla donde se ve el fondo estelado y nos cuenta la história del juego con una transición como al inicio de las películas de Star wars. Me hubiese gustado trabajar más en el proyecto y añadir efectos sonoros como el de activar el motor o música de fondo, pero entre las otras tareas y el trabajo no he tenido tiempo extra para dedicarle.
 
-Diseñado y adaptado a diferentes dispositivos.
+El juego cuenta con:
 
-Menús según el diseño anterior.
+Diseñp y adaptación a diferentes dispositivos, con un estilo Star Wars para la página About únicamente desde ordenador, botones y marcadores más pequeños etc.
 
-Al pulsar una tecla, hacer click en el botón de power o bien hacer click en la pantalla la nave cambia de aspecto a nave con motor encendido y debe cambia la aceleración de g a -g (motorOn).
+Menús basados en el diseño anterior. con reacciones al pasar el ratón y al pulsar
 
-Menores o mayores tanques de combustible para aumentar o disminuir la dificultad del juego.
+Al pulsar una tecla, o bien hacer click en la pantalla la nave cambia de aspecto a nave con motor encendido y cambia la aceleración de g a -g (motorOn).
 
-Si la velocidad de impacto es inferior a un valor umbral mostrar mensaje de felicitación, en caso negativo explotar la nave. En ambos casos el juego finaliza y puede reiniciarse con la opción del menú reiniciar.
-
-Diferentes valores umbrales: 1m/s en modo difícil, 5m/s en modo muy fácil.
+Si la velocidad de impacto es inferior a un valor umbral muestra mensaje de felicitación, en caso negativo explota la nave. En ambos casos el juego finaliza y puede reiniciarse con la opción del menú reiniciar.
 
 Página How to play. Página About. Accesibles desde el menú con mensaje de confirmación.
 
-Menú con reacción al pasar el ratón.
-
-Imágenes comprimidas.
+Todas las imágenes han sido optimizadas.
 
 Dispone de la versió principal (master) indentada i una ramificación (branch) minimificada.
 
