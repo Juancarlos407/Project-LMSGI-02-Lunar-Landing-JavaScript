@@ -19,10 +19,10 @@ Todas las imágenes han sido optimizadas.
 
 Dispone de la versió principal (master) indentada i una ramificación (branch) minimificada.
 
-Puedes Jugar [Aquí]()
+Puedes Jugar [Aquí](https://rawgit.com/Juancarlos407/Projecte-LMSGI-02-Lunar-Landing-JavaScript/master/index.html)
 
-HTML validado [Aquí]()
+HTML validado [Aquí](https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2FJuancarlos407%2FProjecte-LMSGI-02-Lunar-Landing-JavaScript%2Fmaster%2Findex.html)
 
-CSS validado [Aquí]()
+CSS validado [Aquí](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2FJuancarlos407%2FProjecte-LMSGI-02-Lunar-Landing-JavaScript%2Fmaster%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es)
 
 JavaScript validado [Aquí]()
