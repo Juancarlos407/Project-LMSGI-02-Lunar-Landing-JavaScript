@@ -5,7 +5,7 @@ Este proyecto es la cúlmine de nuestro Lunar Landing, en mi caso he usado una p
 
 El juego cuenta con:
 
-Diseñp y adaptación a diferentes dispositivos, con un estilo Star Wars para la página About únicamente desde ordenador, botones y marcadores más pequeños etc.
+Diseño y adaptación a diferentes dispositivos, con un estilo Star Wars para la página About únicamente desde ordenador, botones y marcadores más pequeños etc.
 
 Menús basados en el diseño anterior. con reacciones al pasar el ratón y al pulsar
 
