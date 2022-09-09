@@ -1,4 +1,4 @@
-# Projecte-LMSGI-02-Lunar-Landing-JavaScript-
+# Projecte-LMSGI-02-Lunar-Landing-JavaScript
 ## Proyecto final Lunar Landing que incluye JavaScript
 
 Este proyecto es la cúlmine de nuestro Lunar Landing, en mi caso he usado una paleta de colores relacionadas con Star Wars, colores cálidos para los indicadores y llamativos para el menú, compuesto por tres botones y el sprite "?", un guiño a Super Mario que nos traslada a la página de ayuda, mientras que el boton de About, previa confirmación, nos lleva a una pantalla donde se ve el fondo estelado y nos cuenta la história del juego con una transición como al inicio de las películas de Star wars. Me hubiese gustado trabajar más en el proyecto y añadir efectos sonoros como el de activar el motor o música de fondo, pero entre las otras tareas y el trabajo no he tenido tiempo extra para dedicarle.
